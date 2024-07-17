@@ -4,9 +4,10 @@
 - character management
 - Enemy AI (patrolling, chasing, attacking)
 - The system of inflicting, taking damage, colision.
-- animation correction, motion distortion
+- animation correction, motion warping
 - object destruction
 - item selection
 - sounds
 - simple HUD with interactive widgets
+
 ![image](https://github.com/user-attachments/assets/e9e2eb55-4351-4290-bcb4-763fb2d7a05a)
